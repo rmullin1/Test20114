@@ -23,6 +23,7 @@ namespace test20114
         {
             int x = 2;
             Debug.WriteLine("Hello World!");
+            Debug.WriteLine("Hello World, Again!");
         }
     }
 }
